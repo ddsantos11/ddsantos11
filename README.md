@@ -34,8 +34,8 @@
 
 ### 🌎 **Onde me encontrar**
 📧 Email: [eduardo.almeida@gmail.com](mailto:eduardo.almeida@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-🚀 Portfólio: [seusite.com](https://seusite.com)  
+💼 LinkedIn: [Em desenvolvimento](https://linkedin.com/in/seu-usuario)  
+🚀 Portfólio: [Em desenvolvimento](https://seusite.com)  
 
 ---
 
