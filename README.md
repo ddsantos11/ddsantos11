@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Eu sou Eduardo Almeida</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Construindo+projetos+incríveis!" />
@@ -8,7 +8,7 @@
 
 ### 🚀 **Sobre mim**
 💻 Desenvolvedor apaixonado por tecnologia e inovação.  
-📌 Especializado em **C# | PHP | Node.js | MySQL**.  
+📌 Especializado em **C# | Desenvolvimento Web | MySQL**.  
 ⚡ Sempre buscando novos desafios e aprendizados.  
 
 ---
@@ -34,7 +34,7 @@
 ---
 
 ### 🌎 **Onde me encontrar**
-📧 Email: [seu-email@email.com](mailto:seu-email@email.com)  
+📧 Email: [eduardo.almeida0991@gmail.com](mailto:seu-email@email.com)  
 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
 🚀 Portfólio: [seusite.com](https://seusite.com)  
 
