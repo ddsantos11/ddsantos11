@@ -15,8 +15,8 @@
 
 ### 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddsantos11&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddsantos11&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 ### 🌎 **Onde me encontrar**
-📧 Email: [eduardo.almeida@gmail.com](mailto:seu-email@email.com)  
+📧 Email: [eduardo.almeida@gmail.com](mailto:eduardo.almeida@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
 🚀 Portfólio: [seusite.com](https://seusite.com)  
 
